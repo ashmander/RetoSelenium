@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Comprar vuelo" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-23T20:09:40" hostname="CPX-M7F253C2HWP" time="35.598">
+  <properties/>
+  <testcase name="Comprar vuelo más barato en Vivaair" classname="Comprar vuelo" time="35.598"/>
+  <system-out><![CDATA[<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<COP 265,025
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<COP 235,275
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<COP 181,725
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<COP 140,075
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<COP 140,075
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 4324
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1616530182.619][WARNING]: This version of ChromeDriver has not been tested with Chrome version 89.
+mar 23, 2021 3:09:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Comprar vuelo más barato en Vivaair
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
