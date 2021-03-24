@@ -2,3 +2,11 @@ com/reto/retovivaair/runners/ComprarVueloBarato.java
  com.reto.retovivaair.runners.ComprarVueloBarato
 com/reto/retovivaair/stepdefinitions/ComprarVueloBaratoStepDefinitions.java
  com.reto.retovivaair.stepdefinitions.ComprarVueloBaratoStepDefinitions
+com/reto/retovivaair/userinterface/ReservarVueloVivaairPage.java
+ com.reto.retovivaair.userinterface.ReservarVueloVivaairPage
+com/reto/retovivaair/userinterface/SeleccionarVueloVivaairPage.java
+ com.reto.retovivaair.userinterface.SeleccionarVueloVivaairPage
+com/reto/retovivaair/userinterface/QuitarExtrasYCompararPrecioVivaairPage.java
+ com.reto.retovivaair.userinterface.QuitarExtrasYCompararPrecioVivaairPage
+com/reto/retovivaair/steps/ReservarVueloVivaair.java
+ com.reto.retovivaair.steps.ReservarVueloVivaair
